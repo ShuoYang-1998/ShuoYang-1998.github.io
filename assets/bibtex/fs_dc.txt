@@ -1,0 +1,7 @@
+@inproceedings{
+	yang2021free,
+	title={Free Lunch for Few-shot Learning:  Distribution Calibration},
+	author={Yang, Shuo and Liu, Lu and Xu, Min},
+	booktitle={International Conference on Learning Representations (ICLR)},
+	year={2021},
+}
